@@ -1,0 +1,14 @@
+{
+    "name": "legacyseller/greetr",
+    "description": "Greetr - A simple Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jace Clark",
+            "email": "jace@legacyseller.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
